@@ -1,5 +1,4 @@
 # PaysonCheckout1-Oscommerce
-# Payson OsCommerce Module
 
 ## Description
 
